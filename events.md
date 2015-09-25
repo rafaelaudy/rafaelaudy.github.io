@@ -3,7 +3,7 @@ layout: page
 title: Interesting events in London
 permalink: /events/
 ---
-If you like attending to events we will probably meet each other sooner or later.
+If you like attending to events we will probably meet each other sooner or later. :)
 
 ### I am going to:
 [Angular Connect](http://angularconnect.com/) - 20/10 to 21/11
@@ -17,4 +17,4 @@ If you like attending to events we will probably meet each other sooner or later
 <br>[London DevWeek](http://devweek.com/) - 23/3 to 27/3
 <br>[London Node User Group](http://lanyrd.com/2015/lnug-february/) - 25/2
 <br>[Software Craftsmanship Community](http://www.meetup.com/london-software-craftsmanship/events/220459894/) - 16/2
-<br>Valtech Hackathon - 12/2 to 13/2 - Got an IWatch reservation as a prize for the win! Sweet!! \o/ 
+<br>Valtech Hackathon - 12/2 to 13/2 - My team won \o/

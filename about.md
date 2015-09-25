@@ -3,7 +3,7 @@ layout: page
 title: Hello and welcome
 permalink: /about/
 ---
-My name is Rafael Audy Glanzner and I am a happy Brazilian, a traveller aficionado, gamer and geek. :)
+My name is Rafael Audy Glanzner and I am a happy Brazilian, traveller aficionado, gamer and geek. :)
 
 I am passionate about the art of building quality software, especially when I am involved in those big, shiny and sexy web projects!  <br>
 I firmly believe in the values behind the agile methodologies, specially the continuous improvement part of it. <br>
