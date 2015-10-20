@@ -90,34 +90,35 @@ Our build process was quite slow in the beginning due to some inefficacies and t
 
 
 # NodeJS
-### The good
-	Memory leak assessment
-	Schema validation
-	Config strategy
-	Code coverage
-	Logging with logstash
-	XML to JS
-	JS to XML
-	Request
-	Bluebird promisses
-	Shut down nodejs on error
-	Middleware examples
-	Configurations
-	Defining routes
-	Folder structure
 
-### The bad
-### I will think about in the next project
+![NodeJS is awesome](http://www.quickmeme.com/img/00/006fd811b42bb561542996b7ffb15bb36f25449f5f063eacac886919da848ce6.jpg)
 
-# Couchbase
-	Couchbase API
-	Setting up views / documents
-### The good
-### The bad
-### I will think about in the next project
+## Things that I liked to do:
 
+#### Project setup
+* Logging with logstash;
+* Config strategy;
+* Folder structure;
+
+#### API
+* Schema validation;
+* XML to JS;
+* JS to XML;
+* Request;
+* Bluebird promisses;
+* Defining routes;
+* Shut down nodejs on error;
+* Middleware examples;
+
+#### Tests
+* Memory leak assessment;
+* Code coverage;
+
+#### Couchbase
+* Couchbase API
+* Setting up views / documents
 
 # Other
 
-	Sharing data beetwen javascript apps
-	Get a MAC
+#### Sharing data beetwen javascript apps
+#### Get a MAC
