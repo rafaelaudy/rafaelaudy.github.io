@@ -2,6 +2,8 @@
 layout: post
 title: Rendering your Angular 2 views on the server side!
 ---
+https://github.com/angular/universal
+fullstackangular2.com
 
 Sever rendering
 
@@ -14,6 +16,4 @@ Sever rendering
 
 	Needs an easier example then the one in the talk
 
-
-fullstackangular2.com
 jeffwhelpley

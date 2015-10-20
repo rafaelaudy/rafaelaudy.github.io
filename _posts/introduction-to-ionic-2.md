@@ -2,6 +2,8 @@
 layout: post
 title: Introducing Ionic 2
 ---
+http://adamdbradley.github.io/building-with-ionic2/#/
+https://github.com/adamdbradley/building-with-ionic2
 
 - Have a look on the slides for intro
 - Ionic 1 adoption
@@ -74,7 +76,3 @@ title: Introducing Ionic 2
 - Whats next
 
 	Already have people building stuff with it
-
-- Slides
-	http://adamdbradley.github.io/building-with-ionic2/#/
-	https://github.com/adamdbradley/building-with-ionic2

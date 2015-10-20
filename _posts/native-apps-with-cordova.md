@@ -3,6 +3,8 @@ layout: post
 title: Mobile apps with Cordova (to IOs, Android and Windows apps)
 ---
 
+https://github.com/thinktecture/angular-connect-2015-write-once-run-anywhere
+
 Trully cross platform apps
 Deploy trough the all apps stores
 

@@ -3,6 +3,7 @@
 layout: post
 title: New Angular 2 routing features
 ---
+https://docs.google.com/presentation/d/1bGyuMqYWYXPScnldAZuxqgnCdtgvXE54HhKds8IIPyI/edit#slide=id.p
 
 Outlets
 	With comoponents inside
@@ -20,5 +21,3 @@ Outlets
 		There is another outlet
 		they are first class citizens
 			they have params, sub routes and so on
-
-	https://docs.google.com/presentation/d/1bGyuMqYWYXPScnldAZuxqgnCdtgvXE54HhKds8IIPyI/edit#slide=id.p
