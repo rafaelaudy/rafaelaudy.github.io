@@ -8,7 +8,7 @@ If you like attending to events we will probably meet each other sooner or later
 
 ### I went this year:
 
-[Angular Connect](http://angularconnect.com/) - 20/10 to 21/11
+[Angular Connect](http://angularconnect.com/) - 20/10 to 21/10
 <br>[The London Web](http://www.meetup.com/londonweb/events/194463862/) - 18/6
 <br>[AngularJS Meetup at Bloomberg](http://www.meetup.com/AngularJS-London/events/222822606/) - 8/6
 <br>[Solving real world problems with AngularJS](http://www.meetup.com/AngularJS-London-BYOP/events/222500091/) - 28/5
