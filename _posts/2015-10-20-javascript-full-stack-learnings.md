@@ -1,18 +1,16 @@
 ---
 layout: post
-title: AngularJS, NodeJS and Couchbase - Personal Retrospective and Learnings
+title: AngularJS, NodeJS and Couchbase - Personal Retrospective
 ---
+
+Since I have been working for almost a year in a big project built with AngularJS, NodeJS and Couchbase I thought it would be a good idea to do a small review and register the coolest things that I learned and some of the pitfalls that we encountered.
 
 ![Gandalf thinking about the project](http://mulubinba.typepad.com/.a/6a00d8341dd88553ef014e5f56216c970c-pi)
 
-Since I have been working for almost a year in a big project built with AngularJS, NodeJS and Couchbase
-
-I thought it would be a good idea to review it and write about all the cool things I learned and the pitfalls that we encountered.
-
 The application was targeted to be globally available and had to handle a lot of data so there was no shortage of challenges.
 
-I'll be writing about those topics in the followings months, this post is a kind of backlog.
-So please comment if you want me to prioritize one of the subjects and thank you for your patience. :)
+I'll be writing about some of those topics in the followings months, this post is a kind of backlog.
+So please shout at the comment if you want me to prioritize one of these subjects and thank you for your patience. :)
 
 If you don't agree with the way we handled one of these challenges let me know, I would love the feedback!
 
@@ -22,7 +20,7 @@ If you don't agree with the way we handled one of these challenges let me know, 
 
 #### IE8 Support
 
-If you are supporting IE8 you have to use AngularJS 1.2. Which is a shame since 1.3 and beyond have some major improvements in performance. You are also probably going to need to add the es5 shims and shams. Have a look here: https://github.com/es-shims/es5-shim
+If you are supporting IE8 and is using AngularJS you have to use 1.2. Which is a shame since 1.3 and beyond have some major improvements in performance. You are also probably going to need to add the es5 shims and shams. Have a look here: https://github.com/es-shims/es5-shim
 
 #### Tests
 
@@ -35,13 +33,13 @@ I may write a post about this soon. :)
 
 I may write one or more post about the following soon:
 
-* Interesting techniques aroud the __resolve method and caching__;
+* Interesting techniques around the __resolve method and caching__;
 * How to enable __localization__;
 * The best way to __structure__ 90% of your AngularJS __apps__;
 * I to simplify and share some __interesting directives__ that we have done around date pickers;
-* How to add __validation banners__ with scroll, focus and higlights;
+* How to add __validation banners__ with scroll, focus and highlights;
 * Implementing modals;
-* Talk about the controller as sintax and __John Papa's style guide__;
+* Talk about the controller as syntax and __John Papa's style guide__;
 * How to convert from __View model to DTO__ and vice versa;
 * How to use __factories__ in AngularJS.
 
@@ -96,29 +94,31 @@ Our build process was quite slow in the beginning due to some inefficacies and t
 ## Things that I liked to do:
 
 #### Project setup
-* Logging with logstash;
-* Config strategy;
-* Folder structure;
+* Using logstash, Kibana and Winston for logging;
+* Using nconf to organize configuration files;
+* Code organization and folder structure.
 
 #### API
-* Schema validation;
-* XML to JS;
-* JS to XML;
-* Request;
-* Bluebird promisses;
-* Defining routes;
-* Shut down nodejs on error;
-* Middleware examples;
+* Using JSON schema validation to validate incoming JSON objects;
+* Converting XML to json;
+* Converting json to XML;
+* Using Request extensively to connect to other APIs;
+* Using Bluebird to transform callbacks into promises;
+* Organizing Express routes;
+* Restarting Node.js process on errors;
+* Creating a variety of Express middleware.
 
 #### Tests
-* Memory leak assessment;
-* Code coverage;
+* Adding code coverage to Mocha tests.
 
 #### Couchbase
-* Couchbase API
-* Setting up views / documents
+* Implementing a small wrapper to the Couchbase API;
+* Setting up views / documents.
 
 # Other
 
-#### Sharing data beetwen javascript apps
+#### Sharing data between javascript apps
 #### Get a MAC
+Seriously, get a MAC if you don't have one :)
+I started with a Windows box, then changed to Linux and finally got a MAC.
+Although I like Linux for programming purposes a MAC is much better is all other regards.
