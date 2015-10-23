@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Current state of AngularJS 1 and 2
