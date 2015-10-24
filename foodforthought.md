@@ -3,10 +3,10 @@ layout: page
 title: Food for thought
 permalink: /foodforthought/
 ---
-I like to get knowledge from a variaty of different sources so it is easier to maintain my radar updated.
-Here I will share my best sources of knowledge and I hope you find one of the helpfull:
+I like to get knowledge from a variaty of different sources so it is easier to maintain my radar updated. :p
+Here I will share my best sources of knowledge and I hope you find one of them helpfull:
 
-### Events that I am attending:
+### Events that I attended this year:
 
 * [Angular Connect](http://angularconnect.com/) - 20/10 to 21/10
 * [The London Web](http://www.meetup.com/londonweb/events/194463862/) - 18/6
@@ -20,7 +20,7 @@ Here I will share my best sources of knowledge and I hope you find one of the he
 
 ### Podcast that I listen to:
 
-The trick here is to skip the programs that you are not interested about, otherwise you will start to hoard geek shows :p
+The trick here is to skip the program you are not interested in, otherwise you will start to hoard geek shows :p
 
 * [Angular Air](http://angular-air.com/)
 * [JavaScript Jabber](https://devchat.tv/js-jabber)
@@ -39,7 +39,7 @@ The trick here is to skip the programs that you are not interested about, otherw
 
 ### Techonologies that I am studing right now:
 
-* [Angular 2]()
-* [Ionic 2]()
-* [Node.JS]()
+* [Angular 2](https://angular.io/)
+* [Ionic 2](http://ionic.io/2)
+* [Node.JS](https://nodejs.org/en/)
 
