@@ -9,10 +9,18 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-    <script type="text/javascript">stLight.options({publisher: "95b23607-bed3-4d3c-8c3e-ce42af8cb7fb", doNotHash: false, doNotCopy: false, hashAddressBar: false});</script>
+    <link rel="stylesheet" type="text/css" href="/style.css" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="/feed.xml" />
+
+    <style type="text/css">
+      #share-buttons img {
+      width: 35px;
+      padding: 5px;
+      border: 0;
+      box-shadow: 0;
+      display: inline;
+      }
+    </style>
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
@@ -47,6 +55,9 @@
         </footer>
       </div>
     </div>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="/scripts/social-buttons.js"></script>
 
     {% include analytics.html %}
   </body>
