@@ -17,3 +17,5 @@ AngularJS, React, Node.js, HTML 5, ASP.NET WebAPI, AWS, Linux, Agile "stuff", No
 ### Contact me
 
 [rafael.audy@gmail.com](rafael.audy@gmail.com)
+
+![Development by PHD comics](https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/master/images/phd-coding.gif)
