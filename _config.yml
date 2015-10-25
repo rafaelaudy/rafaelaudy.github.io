@@ -49,6 +49,8 @@ url:
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+url: "http://rafaelaudy.github.io"
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
