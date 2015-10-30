@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Creating your first Angular 2 app
-description: Create your first Angular 2 app using TypeScript and explore and discover why those two languages are working so well together.
+excerpt: Create your first Angular 2 app using TypeScript. I'll introduce these two technologies and show you why they work so well together.
+image: 'https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/master/images/posts/angular/simple-angular-2-app/angular-2-and-typescript.jpg'
+imageAlt: Angular 2 and TypeScript
+keywords: Angular, Angular 2, TypeScript, Sample, Introduction, Rafael Audy, Rafael Glanzner, Rafael Audy Glanzner
 ---
 This post will help you get your first [Angular 2](https://angular.io/) + [TypeScript](http://www.typescriptlang.org/) "hello world on asteroids" app out of the door.
 Please have a look on this [post](http://rafaelaudy.github.io/angular-1-and-2-state/) first if you are wondering why you should learn Angular 2 and TypeScript to begin with.
@@ -66,9 +69,9 @@ class LittleComponent {
 }
 ```
 
-To define a component using Angular 2 we will need to creat a class (TypeScript) and decorate (TypeScript) with the @Component annotation.
+To define a component using Angular 2 we will need to create a class (TypeScript) and decorate (TypeScript) with the @Component annotation.
 Then our class will have our logic while the component annotation is going to define the Angular component.
-The annotation content reminds me a lot of how we used to create a Angular 1 directive definition. Interestingy annotations will probably be part of ES7.
+The annotation content reminds me a lot of how we used to create a Angular 1 directive definition. Interestingly annotations will probably be part of ES7.
 
 Just to help you out, here is a quick comparison of Angular 1 and 2 concepts:
 
@@ -128,7 +131,7 @@ Pay attention to the follow bits of code:
 * __Template:__ Quite easy, just the HTML that is going to be inserted when this component is used. You can also specify a templateUrl;
 * __Directives:__ Kind of a dependency injection. You have to pass an array with all the other components that you are going to use.
     The FORM_DIRECTIVES is an array of common components used in forms (duh). 	You have to add it if you want to use two-way data binding for example.
-* __[(ng-model)]:__ This is how you create two-way data binding now. In this case we are binding hero.name to the imput;
+* __[(ng-model)]:__ This is how you create two-way data binding now. In this case we are binding hero.name to the input;
 * __Typed language:__ Did you saw how we reused the Hero class? Try to construct it with the wrong data and you will get a nice error :)
 
 ### Dependency Injection:
@@ -197,7 +200,7 @@ With this sample app you can already try some interesting advantages of using Ty
 
 ![TypeScript go to](https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/master/images/posts/angular/simple-angular-2-app/typescript-goto.png)
 
-Angular 2, Ionic 2 and a bunch of other libraries are using TypeScript 100% of the time. The Angular team adopted it in the middle of their development and thet reported a relevant imporvement in their productivity.
+Angular 2, Ionic 2 and a bunch of other libraries are using TypeScript 100% of the time. The Angular team adopted it during Angular 2 development and reported a relevant improvement to their productivity.
 They said TypeScript made spotting errors and refactoring the code easier.
 
 ### Debugging the code:
@@ -215,6 +218,8 @@ That is not ideal, but that is a topic for another post :)
 
 I hope this was helpful for you!
 Let me know if you have any feedback on the commentaries.
+
+Oh, have a look in my other [post](http://rafaelaudy.github.io/angular-1-and-2-state/) about Angular 2, you might become an expect in the field!
 
 ![AngularJS 2 Expert](http://cdn.meme.am/instances/500x/61209585.jpg)
 

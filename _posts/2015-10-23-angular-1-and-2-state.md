@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Current state of AngularJS 1 and 2
+excerpt: What is the current state of Angular 1 and Angular 2? Why should you adopt Angular 2? How well do they perform against other frameworks like React? So many questions!! Read the post, maybe I'll be able to answer them. :)
+keywords: Angular, Angular 2, TypeScript, Introduction, Migrating, React, comparison, Rafael Audy, Rafael Glanzner, Rafael Audy Glanzner
 ---
 
 __Angular 1 has been around for almost 6 years. But what has it accomplished and until when is it going to be relevant?
