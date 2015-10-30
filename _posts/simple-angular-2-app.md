@@ -21,18 +21,18 @@ It is simpler than it sounds, you just need to run these two commands:
 
 `npm install -g live-server`
 
-[live-server]() will let you host you app and add a live reload feature (sweet).
+[live-server](https://www.npmjs.com/package/live-server) will let you host you app and add a live reload feature (sweet).
 That means that whenever you change a file your browser will be automatically refreshed with the new content.
 
 `npm install`
 
 This will install Angular 2 and TypeScript which are the only dependencies specified in our package.json.
-If you don't know what a package.json is you will need to learn a little bit more about [NodeJS]() and specially [NPM]().
+If you don't know what a package.json is you will need to learn a little bit more about [NodeJS](https://nodejs.org/en/) and specially [NPM](https://www.npmjs.com/).
 But don't stress too much, for the purpose of this post you can abstract those technologies :).
 
 # Hosting and compiling the app... Wait... Compiling?
 
-Yes! We will need to compile our app to convert TypeScript into [ES5]() (same old JavaScript) code, otherwise browsers will not understand what we are creating. :)
+Yes! We will need to compile our app to convert TypeScript into [ES5](https://en.wikipedia.org/wiki/ECMAScript) (same old JavaScript) code, otherwise browsers will not understand what we are creating. :)
 It is super simple to do it, just run this command:
 
 `npm run tsc`
@@ -127,7 +127,7 @@ Let's point out some interesting bits of this component:
 * Typed language: Did you saw how we reused the Hero class? Try to construct it with the wrong data you will get a nice error :)
 
 ### Dependency Injection
-As you probably realized, the first line from the example above is one of the new ways to use dependency injection ([SystemJS]()).
+As you probably realized, the first line from the example above is one of the new ways to use dependency injection ([SystemJS](https://github.com/systemjs/systemjs)).
 That makes Angular 2 much better than 1 in my opinion, to begin with we can reuse code much easier. The dream of reusing your models defined on the server is not that far away anymore.
 
 ```javascript
@@ -136,7 +136,7 @@ import {bootstrap, Component, FORM_DIRECTIVES} from 'angular2/angular2';
 
 Another neat things is that with TypeScript you have autocomplete while typing the stuff inside the 'import { '.
 
-![Autocomplete with TypeScript]()
+![Autocomplete with TypeScript](https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/master/images/posts/angular/simple-angular-2-app/typescript-autocomplete.png)
 
 ### Templating
 
@@ -183,7 +183,7 @@ In this small code sample you can try do things like:
 ![TypeScript compilation error]()
 
 * You can autocomplete and check documentation from what you are trying to use the same way you are able to do today with languages like C#
-![TypeScript autocomplete]()
+![TypeScript autocomplete](https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/master/images/posts/angular/simple-angular-2-app/typescript-autocomplete.png)
 
 * You can even navigate to functions, for example in Visual Studio Code you can select ctrl and click on it to see the code.
 ![TypeScript go to]()
