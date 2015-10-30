@@ -14,7 +14,7 @@ I used [this tutorial](https://angular.io/docs/ts/latest/quickstart.html), build
 
 PS: I am using [Visual Studio Code](https://code.visualstudio.com/) on a Mac which works quite well. :)
 
-# Installing the app (boring things first)
+# Installing the app (boring things first):
 
 To run our app we will need to install TypeScript and a node package to host our app.
 It is simpler than it sounds, you just need to run these two commands:
@@ -28,7 +28,8 @@ That means that whenever you change a file your browser will be automatically re
 
 This will install Angular 2 and TypeScript which are the only dependencies specified in our package.json.
 If you don't know what a package.json is you will need to learn a little bit more about [NodeJS](https://nodejs.org/en/) and specially [NPM](https://www.npmjs.com/).
-But don't stress too much, for the purpose of this post you can abstract those technologies :).
+
+But don't stress too much, for the purpose of this post you can abstract those technologies. :)
 
 # Hosting and compiling the app... Wait... Compiling?
 
@@ -49,7 +50,7 @@ Again, this topic is not the focus of this post :)
 
 # So... About the Angular 2 code!
 
-### Components
+### Components:
 Components are main building blocks from a Angular 2 app.
 Instead of having a mix of directives, views, controllers and multiple scopes you just have a tree of components now.
 It will be simpler having a look on a code:
@@ -73,11 +74,12 @@ The decorator content reminds me a lot of how we used to create a Angular 1 dire
 
 Just to help you out, here is a quick comparison of Angular 1 and 2 concepts:
 
-Angular 1                       Angular 2
-App.js							Top level component
-Directives						Component
-Controller and a view 			Component
-Directive with a controller 	Component
+Angular 1 | Angular 2
+--------- | ---------
+App.js	| Top level component
+Directives | Component
+Controller and a view | Component
+Directive with a controller | Component
 
 Much simpler, right?
 This decorator syntax is probably going to be part of ES7.
@@ -119,14 +121,15 @@ bootstrap(AppComponent);
 ```
 
 Let's point out some interesting bits of this component:
-* Selector: This is how you are going to 'activate' your component in the html. In this case you can use <my-app> on the html.
-* Template: Quite easy, just the HTML that is going to be inserted when this component is used. You can also specify a templateUrl.
-* Directives: Kind of a dependency injection. You have to pass an array with all the other components that you are going to use.
-    The FORM_DIRECTIVES is an array of common components used in forms (duh). You have to add it if you want to use two-way data binding for example.
-* [(ng-model)]: This is how you create two-way data binding now.
-* Typed language: Did you saw how we reused the Hero class? Try to construct it with the wrong data you will get a nice error :)
 
-### Dependency Injection
+* __Selector:__ This is how you are going to 'activate' your component in the html. In this case you can use <my-app> on the html;
+* __Template:__ Quite easy, just the HTML that is going to be inserted when this component is used. You can also specify a templateUrl;
+* __Directives:__ Kind of a dependency injection. You have to pass an array with all the other components that you are going to use.
+    The FORM_DIRECTIVES is an array of common components used in forms (duh). 	You have to add it if you want to use two-way data binding for example.
+* __[(ng-model)]:__ This is how you create two-way data binding now;
+* __Typed language:__ Did you saw how we reused the Hero class? Try to construct it with the wrong data you will get a nice error :)
+
+### Dependency Injection:
 As you probably realized, the first line from the example above is one of the new ways to use dependency injection ([SystemJS](https://github.com/systemjs/systemjs)).
 That makes Angular 2 much better than 1 in my opinion, to begin with we can reuse code much easier. The dream of reusing your models defined on the server is not that far away anymore.
 
@@ -179,24 +182,31 @@ Now you can just go and use it on your index.html.
 Using TypeScript is not only going to enhance the JavaScript language, it is also going to provide a lot of help during development.
 In this small code sample you can try do things like:
 
-* Change the type of a property in a class and then assign a value from a different type to it === BOOM
-![TypeScript compilation error]()
+* Change the type of a property in a class and then assign a value from a different type to it __===__ BOOM;
 
-* You can autocomplete and check documentation from what you are trying to use the same way you are able to do today with languages like C#
+
+![TypeScript compilation error](https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/master/images/posts/angular/simple-angular-2-app/typescript-compilation-error.png)
+
+* You can autocomplete and check documentation from what you are trying to use the same way you are able to do today with languages like C#;
+
+
 ![TypeScript autocomplete](https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/master/images/posts/angular/simple-angular-2-app/typescript-autocomplete.png)
 
-* You can even navigate to functions, for example in Visual Studio Code you can select ctrl and click on it to see the code.
-![TypeScript go to]()
+* You can even navigate to functions, for example in Visual Studio Code you can select ctrl and click on it to see the code;
 
-    Also all the docs from Angular 2 are generated from this files.
-![TypeScript documentation]()
+
+![TypeScript go to](https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/master/images/posts/angular/simple-angular-2-app/typescript-goto.png)
+
+* Instead of going to the Angular 2 docs or any other library you can just jump to the relevant code;
+
+![TypeScript documentation](https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/master/images/posts/angular/simple-angular-2-app/typescript-documentation.png)
 
 ### Debugging the code
 Last but not least it is important to know that you are still able to debug your apps the same way you have always done.
 The compilation step already add the source maps needed to debug on any browser.
 That means that you can add breakpoints to your TypeScript files and it will work.
 
-![TypeScript debug]()
+![TypeScript debug](https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/master/images/posts/angular/simple-angular-2-app/typescript-debug.png)
 
 # Final considerations
 
