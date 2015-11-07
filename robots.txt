@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: rafaelaudy.github.io/sitemap.xml
+Sitemap: http://rafaelaudy.github.io/sitemap.xml
