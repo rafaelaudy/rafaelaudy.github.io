@@ -8,6 +8,7 @@ Here I will share my best sources of knowledge and I hope you find one of them h
 
 ### Events that I attended this year:
 
+* [Valtech's Brown Bag - Angular 2 preview](http://rafaelaudy.github.io/angular-preview-talk/) - 6/11
 * [Angular Connect](http://angularconnect.com/) - 20/10 to 21/10
 * [The London Web](http://www.meetup.com/londonweb/events/194463862/) - 18/6
 * [AngularJS Meetup at Bloomberg](http://www.meetup.com/AngularJS-London/events/222822606/) - 8/6
