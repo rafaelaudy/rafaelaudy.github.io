@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Angular 2 Preview Talk
-excerpt: In this talk I explain why Angular 2 might be the next hot framework and how to get started.
+excerpt: Should you care about Angular 2? Is it easy to migrate from Angular 1? In this talk I explain why this framework might be the hottest thing on the web next year. This post also contains the slides, repositories and links mentioned during the talk.
 keywords: Angular 2, TypeScript, Introduction, Preview, Rafael Audy, Rafael Glanzner, Rafael Audy Glanzner
 ---
 
