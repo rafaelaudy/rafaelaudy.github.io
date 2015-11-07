@@ -9,20 +9,21 @@ imageAlt: Talk about Angular 2 with Rafael Audy Glanzner
 
 Hi all,
 
-I gave a talk at [Valtech](https://www.valtech.com/) explaining why [Angular 2](https://angular.io/) and [TypeScrip](http://www.typescriptlang.org/) might be the next cool kid on the block and how to get started. 
-You can check out the full talk bellow and on this post I'll share the resources that I mentioned during the presentation that are not already on the [slides](http://www.slideshare.net/rafaelglanzner/introduction-to-angular-2-54854095).
+I gave a talk at [Valtech](https://www.valtech.com/) explaining why [Angular 2](https://angular.io/) and [TypeScript](http://www.typescriptlang.org/) might be the next cool kid on the block and how to get started.
+I made this post to share the resources I mentioned during the presentation that were not already on the [slides](http://www.slideshare.net/rafaelglanzner/introduction-to-angular-2-54854095).
+Visit [this github repo](https://github.com/rafaelaudy/angular-2-heroes) for the simple app and [this one](https://github.com/rafaelaudy/angular-2-heroes-step-2) for the slightly more complex one. I added instructions on how to run them in the readme files.
+ 
+You can check out the full talk bellow if you are interested. 
 
 __I'll add the video here as soon as it is available :)__
 
-Visit [this github repo](https://github.com/rafaelaudy/angular-2-heroes) for the simple app and [this one](https://github.com/rafaelaudy/angular-2-heroes-step-2) for the slightly more complex one. I added instructions on how to run them in the readme files.
-
 #### Angular Connect Keynote
 This presentation was great, it is a must watch. It gives an overview of the current state of Angular 1 and 2, the objectives of Angular 2 and much more.
-Also, a guy from the Meteor framework goes on stage to show a benchmarking comparing Angular 2 to other frameworks.
+Also, a guy from the Meteor framework goes on stage to show a benchmark comparing Angular 2 to other frameworks.
 
 [![AngularConnect keynote](http://img.youtube.com/vi/UxjgUjVpe24/0.jpg)](https://www.youtube.com/watch?v=UxjgUjVpe24)
 
-You can also read my [previous post](http://rafaelaudy.github.io/angular-1-and-2-state/) about the state of angular 1 and 2.
+You can also read my [previous post](http://rafaelaudy.github.io/angular-1-and-2-state/) about the state of Angular 1 and 2.
 
 #### Hands-on introduction to Angular 2 
 
