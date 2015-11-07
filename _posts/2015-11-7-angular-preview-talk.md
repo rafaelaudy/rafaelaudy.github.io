@@ -3,6 +3,8 @@ layout: post
 title: Angular 2 Preview
 excerpt: Should you care about Angular 2? Is it easy to migrate from Angular 1? In this talk (available on this post) I explain why this framework might be the hottest thing on the web next year. This post also contains the slides, repositories and links mentioned during the talk.
 keywords: Angular 2, TypeScript, Introduction, Preview, Rafael Audy, Rafael Glanzner, Rafael Audy Glanzner
+image: 'https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/5b5bd1d973329d2b6bd2533340a2b3aa9c61891e/images/posts/angular/angular-preview-talk/angular-2-rafael-audy-glanzner.jpg'
+imageAlt: Talk about Angular 2 with Rafael Audy Glanzner
 ---
 
 Hi all,
