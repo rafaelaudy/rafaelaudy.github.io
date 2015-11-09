@@ -11,6 +11,7 @@ Hi all,
 
 I gave a talk at [Valtech](https://www.valtech.com/) explaining why [Angular 2](https://angular.io/) and [TypeScript](http://www.typescriptlang.org/) might be the next cool kid on the block and how to get started.
 I made this post to share the resources I mentioned during the presentation that were not already on the [slides](http://www.slideshare.net/rafaelglanzner/introduction-to-angular-2-54854095).
+
 Visit [this github repo](https://github.com/rafaelaudy/angular-2-heroes) for the simple app and [this one](https://github.com/rafaelaudy/angular-2-heroes-step-2) for the slightly more complex one. I added instructions on how to run them in the readme files.
  
 You can check out the full talk bellow if you are interested. 
