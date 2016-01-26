@@ -8,16 +8,17 @@ Here I will share my best sources of knowledge and I hope you find one of them h
 
 ### Events that I attended this year:
 
-* [Valtech's Brown Bag - Angular 2 preview](http://rafaelaudy.github.io/angular-preview-talk/) - 6/11
-* [Angular Connect](http://angularconnect.com/) - 20/10 to 21/10
-* [The London Web](http://www.meetup.com/londonweb/events/194463862/) - 18/6
-* [AngularJS Meetup at Bloomberg](http://www.meetup.com/AngularJS-London/events/222822606/) - 8/6
-* [Solving real world problems with AngularJS](http://www.meetup.com/AngularJS-London-BYOP/events/222500091/) - 28/5
-* [React User Group](http://www.meetup.com/London-React-User-Group/events/221724860/) - 22/4
-* [London DevWeek](http://devweek.com/) - 23/3 to 27/3
-* [London Node User Group](http://lanyrd.com/2015/lnug-february/) - 25/2
-* [Software Craftsmanship Community](http://www.meetup.com/london-software-craftsmanship/events/220459894/) - 16/2
-* Valtech Hackathon - 12/2 to 13/2 - My team won \o/
+* [DBTalks - I presented 'Angular 2 preview'](https://www.youtube.com/watch?v=hzPaxAHa7J8) - 21/12/2015
+* [Valtech's Brown Bag - I presented Angular 2 preview](http://rafaelaudy.github.io/angular-preview-talk/) - 6/11/2015
+* [Angular Connect](http://angularconnect.com/) - 20/10 to 21/10/2015
+* [The London Web](http://www.meetup.com/londonweb/events/194463862/) - 18/6/2015
+* [AngularJS Meetup at Bloomberg](http://www.meetup.com/AngularJS-London/events/222822606/) - 8/6/2015
+* [Solving real world problems with AngularJS](http://www.meetup.com/AngularJS-London-BYOP/events/222500091/) - 28/5/2015
+* [React User Group](http://www.meetup.com/London-React-User-Group/events/221724860/) - 22/4/2015
+* [London DevWeek](http://devweek.com/) - 23/3 to 27/3/2015
+* [London Node User Group](http://lanyrd.com/2015/lnug-february/) - 25/2/2015
+* [Software Craftsmanship Community](http://www.meetup.com/london-software-craftsmanship/events/220459894/) - 16/2/2015
+* Valtech Hackathon - 12/2 to 13/2/2015 - My team won \o/
 
 ### Podcast that I listen to:
 
