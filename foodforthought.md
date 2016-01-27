@@ -9,8 +9,9 @@ Here I will share my best sources of knowledge and I hope you find one of them h
 ### Events that I attended this year:
 
 * [AngularJS Meetup at Wonga](http://www.meetup.com/AngularJS-London/events/228224175/) - 27/1/2016
-* [DBTalks - I presented 'Angular 2 preview'](https://www.youtube.com/watch?v=hzPaxAHa7J8) - 21/12/2015
-* [Valtech's Brown Bag - I presented Angular 2 preview](http://rafaelaudy.github.io/angular-preview-talk/) - 6/11/2015
+* [LEAN Agile Manchester Meetup](http://www.meetup.com/Lean-Agile-Manchester/events/227496143/) - 20/1/2016
+* [DBTalks - I gave a talk called "Angular 2 preview"](https://www.youtube.com/watch?v=hzPaxAHa7J8) - 21/12/2015
+* [Valtech's Brown Bag - I gave a talk called "Angular 2 preview"](http://rafaelaudy.github.io/angular-preview-talk/) - 6/11/2015
 * [Angular Connect](http://angularconnect.com/) - 20/10 to 21/10/2015
 * [The London Web](http://www.meetup.com/londonweb/events/194463862/) - 18/6/2015
 * [AngularJS Meetup at Bloomberg](http://www.meetup.com/AngularJS-London/events/222822606/) - 8/6/2015
