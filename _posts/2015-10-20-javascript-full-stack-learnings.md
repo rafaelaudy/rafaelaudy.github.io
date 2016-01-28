@@ -1,6 +1,6 @@
 ---
 layout: post
-keywords: AngularJS, NodeJS, Couchbase, retrospective, Rafael Audy, Rafael Glanzner, Rafael Audy Glanzner
+keywords: AngularJS, NodeJS, Couchbase, retrospective, Rafael Audy Glanzner
 ---
 
 Since I have been working for almost an year in a big project built with AngularJS, NodeJS and Couchbase I thought it would be a good idea to do a small review and register the coolest things I learned and some of the pitfalls my team encountered.

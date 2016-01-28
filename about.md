@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hello and welcome
+excerpt: My name is Rafael Audy Glanzner and I am a happy Brazilian coder, traveller aficionado, gamer and geek. :)
 permalink: /about/
 ---
 My name is Rafael Audy Glanzner and I am a happy Brazilian, traveller aficionado, gamer and geek. :)
@@ -15,8 +16,6 @@ In the last year I have been studiyng and working with the MEAN stack. I also ha
 This blog may contain awesome stuff about:
 AngularJS, React, Node.js, HTML 5, ASP.NET WebAPI, AWS, Linux, Agile "stuff", NoSQL, cats, potatos, mummies and so on...
 
-### Contact me
-
-[rafael.audy@gmail.com](rafael.audy@gmail.com)
+### Contact me at rafael.audy@gmail.com
 
 ![Development by PHD comics](https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/master/images/phd-coding.gif)

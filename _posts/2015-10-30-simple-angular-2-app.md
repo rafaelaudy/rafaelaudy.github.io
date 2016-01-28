@@ -4,7 +4,7 @@ title: Creating your first Angular 2 app
 excerpt: Create your first Angular 2 app using TypeScript. I'll introduce these two technologies and show you why they work so well together.
 image: 'https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/master/images/posts/angular/simple-angular-2-app/angular-2-and-typescript.jpg'
 imageAlt: Angular 2 and TypeScript
-keywords: Angular, Angular 2, TypeScript, Sample, Introduction, Rafael Audy, Rafael Glanzner, Rafael Audy Glanzner
+keywords: Angular, Angular 2, TypeScript, Sample, Introduction, Rafael Audy Glanzner
 ---
 This post will help you get your first [Angular 2](https://angular.io/) + [TypeScript](http://www.typescriptlang.org/) "hello world on asteroids" app out of the door.
 Please have a look on this [post](http://rafaelaudy.github.io/angular-1-and-2-state/) first if you are wondering why you should learn Angular 2 and TypeScript to begin with.

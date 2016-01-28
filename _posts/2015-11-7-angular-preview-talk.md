@@ -2,7 +2,7 @@
 layout: post
 title: Angular 2 Preview
 excerpt: Should you care about Angular 2? Is it easy to migrate from Angular 1? In this talk (available on this post) I explain why this framework might be the hottest thing on the web next year. This post also contains the slides, repositories and links mentioned during the talk.
-keywords: Angular 2, TypeScript, Introduction, Preview, Rafael Audy, Rafael Glanzner, Rafael Audy Glanzner
+keywords: Angular 2, TypeScript, Introduction, Preview, Rafael Audy Glanzner
 image: 'https://raw.githubusercontent.com/rafaelaudy/rafaelaudy.github.io/5b5bd1d973329d2b6bd2533340a2b3aa9c61891e/images/posts/angular/angular-preview-talk/angular-2-rafael-audy-glanzner.jpg'
 imageAlt: Talk about Angular 2 with Rafael Audy Glanzner
 ---
@@ -13,8 +13,8 @@ I gave a talk at [Valtech](https://www.valtech.com/) explaining why [Angular 2](
 I made this post to share the resources I mentioned during the presentation that were not already on the [slides](http://www.slideshare.net/rafaelglanzner/introduction-to-angular-2-54854095).
 
 Visit [this github repo](https://github.com/rafaelaudy/angular-2-heroes) for the simple app and [this one](https://github.com/rafaelaudy/angular-2-heroes-step-2) for the slightly more complex one. I added instructions on how to run them in the readme files.
- 
-You can check out the full talk bellow if you are interested. 
+
+You can check out the full talk bellow if you are interested.
 
 __I'll add the video here as soon as it is available :)__
 
@@ -26,7 +26,7 @@ Also, a guy from the Meteor framework goes on stage to show a benchmark comparin
 
 You can also read my [previous post](http://rafaelaudy.github.io/angular-1-and-2-state/) about the state of Angular 1 and 2.
 
-#### Hands-on introduction to Angular 2 
+#### Hands-on introduction to Angular 2
 
 [![Getting started in Angular 2](http://img.youtube.com/vi/LS3aewTkfHI/0.jpg)](https://www.youtube.com/watch?v=LS3aewTkfHI)
 
