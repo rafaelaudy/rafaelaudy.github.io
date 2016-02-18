@@ -9,6 +9,7 @@ Here I will share my best sources of knowledge and I hope you find one of them h
 
 ### Events that I attended this year:
 
+* [LEAN Agile Manchester Meetup](http://www.meetup.com/Lean-Agile-Manchester/events/228252731/) - 18/2/2016
 * [AngularJS Meetup at Wonga](http://www.meetup.com/AngularJS-London/events/228224175/) - 27/1/2016
 * [LEAN Agile Manchester Meetup](http://www.meetup.com/Lean-Agile-Manchester/events/227496143/) - 20/1/2016
 * [DBTalks - I gave a talk called "Angular 2 preview"](https://www.youtube.com/watch?v=hzPaxAHa7J8) - 21/12/2015
