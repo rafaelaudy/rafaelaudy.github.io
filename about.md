@@ -5,7 +5,8 @@ excerpt: My name is Rafael Audy Glanzner and I am a happy Brazilian coder, trave
 permalink: /about/
 ---
 My name is Rafael Audy Glanzner and I am a happy Brazilian, traveller aficionado, gamer and geek. :)
-I am currently working at [Valtech](https://www.valtech.com/) in different web projects as a senior consultant.
+I own Porto IT, which is an awesome consultancy company. 
+I am currently helping [SKY](https://www.sky.com/) to deliver some cool features for the [NOW TV](http://watch.nowtv.com/movies) web solution.
 
 I am passionate about the art of building quality software, especially when I am involved in those big, shiny and sexy web projects! I firmly believe in the values behind the agile methodologies, specially the continuous improvement part of it.
 Going to conferences, reading books, maintaining a blog and doing a masters are examples of how I try to apply continuous improovement to my craft and personal life.
