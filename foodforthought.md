@@ -9,6 +9,13 @@ Here I will share my best sources of knowledge and I hope you find one of them h
 
 ### Events that I attended this year:
 
+* [BeFaster Workshop](http://befaster.io/) - 10/12/2016 - I was the fastest dev \o/
+* Organizing one brown bag per week at SKY (around web develpment) - 2016 to 2017
+* Sky Developers Conference - 30/9/2016
+* Async Programming with Reactive Extensions (RxJS) at SKY - 8/9/2016
+* Typescript training course at SKY - 29/7/2016
+* [Typescript introduction at SKY](https://www.youtube.com/watch?v=LdhmELYX0Rg&feature=youtu.be) - 3/6/2016
+* Components and Angular 1.5 - Peter Bacon at SKY - 18/4/2016
 * [LEAN Agile Manchester Meetup](http://www.meetup.com/Lean-Agile-Manchester/events/228252731/) - 18/2/2016
 * [AngularJS Meetup at Wonga](http://www.meetup.com/AngularJS-London/events/228224175/) - 27/1/2016
 * [LEAN Agile Manchester Meetup](http://www.meetup.com/Lean-Agile-Manchester/events/227496143/) - 20/1/2016
@@ -38,6 +45,15 @@ The trick here is to skip the program you are not interested in, otherwise you w
 
 ### Books that I have recently read:
 
+Some were amazing and I finished quite quickly, others I didn't get to half of it. :) 
+
+* [React Speed Coding: Learn React with ES6, Redux, Webpack, Enzyme, and Flexbox](https://www.amazon.co.uk/gp/product/B01GLC0Z5K/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1)
+* [CSS: The Missing Manual](https://www.amazon.co.uk/gp/product/1491918055/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+* [HTML5: The Missing Manual (The Missing Manuals)](https://www.amazon.co.uk/gp/product/1449363261/ref=oh_aui_detailpage_o05_s00?ie=UTF8&psc=1)
+* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read)
+* [Scalable and Modular Architecture for CSS](https://shop.smacss.com/)
+* [Pro GIT](https://www.amazon.co.uk/Pro-Git-Scott-Chacon-x/dp/1484200772)
+* [Groovy in Action](https://www.amazon.co.uk/gp/product/1935182447/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1)
 * [Ubuntu Unleashed: Covering 14.10 and 15.04](http://www.amazon.co.uk/Ubuntu-Unleashed-2015-Edition-Covering-ebook/dp/B00PWNOJ8Y)
 * [Practical Node.js: Building Real-World Scalable Web Apps](http://www.apress.com/9781430265955)
 * [Web Application Security, A Beginner's Guide](http://www.amazon.co.uk/Web-Application-Security-Beginners-Guide/dp/0071776168)
@@ -45,7 +61,12 @@ The trick here is to skip the program you are not interested in, otherwise you w
 
 ### Techonologies that I am studing right now:
 
+* [React ecosystem](https://facebook.github.io/react/)
+
+Next in the line:
+
 * [Angular 2](https://angular.io/)
 * [Ionic 2](http://ionic.io/2)
 * [Node.JS](https://nodejs.org/en/)
-
+* [Java ecosystem](https://www.java.com/en/)
+* [Containers like Docker](https://www.docker.com/)
