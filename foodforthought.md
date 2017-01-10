@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Food for thought
+title: What I've been doing
 excerpt: This is how I keep myself up to date, listening to podcasts, attending to events, reading books and continuing my formal education.
 permalink: /foodforthought/
 ---
