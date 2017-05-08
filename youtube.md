@@ -1,39 +1,39 @@
 IDEAS FOR VIDEOS
-Experimentando gravar um let's play
-Experimentando correrida
-Experimentando correr longas distancias
-Experimentando andar de moto
-Experimentando mergulho
-Experimentando bullet journal
-Experimentando caca de passagens baratas
-Experimentando um musical
-Experimentando um ballet
-Experimentando commuting de bicileta
-Experimentando longas distancias de bicileta
-Experimentando transformar o commuting na melhor parte do dia
-Experimentando kite surfing
-Experimentando roller
-Experimentando criar um canal no youtube
-Experimentando fazer amigos em uma nova cidade
-Experimentando virar vegetariano
-Experimentando cortar doces
-Experimentando programacao 
-Experimentando board games
-Experimentando receber gente no coach surfing
-Experimentando usar coach surfing
-Experimentando receber com airbnb
-Experimentando ficar em airbnb
-Experimentando juros compostos
-Experimentando animes
-Experimentando bife arabe
-Experimentando aboboras para hallowen
-Experimentando melhorar ingles com ebooks
-Experimentando edicao de videos
-Experimentando yoga
-Experimentando formas de descobrir novas musicas
-Experimentando o feminismo
-Experimentando viagem internacional com a AIESEC
-Experimentando podcasts
-Experimentando Londres
+- Experimentando gravar um let's play
+- Experimentando correrida
+- Experimentando correr longas distancias
+- Experimentando andar de moto
+- Experimentando mergulho
+- Experimentando bullet journal
+- Experimentando caca de passagens baratas
+- Experimentando um musical
+- Experimentando um ballet
+- Experimentando commuting de bicileta
+- Experimentando longas distancias de bicileta
+- Experimentando transformar o commuting na melhor parte do dia
+- Experimentando kite surfing
+- Experimentando roller
+- Experimentando criar um canal no youtube
+- Experimentando fazer amigos em uma nova cidade
+- Experimentando virar vegetariano
+- Experimentando cortar doces
+- Experimentando programacao 
+- Experimentando board games
+- Experimentando receber gente no coach surfing
+- Experimentando usar coach surfing
+- Experimentando receber com airbnb
+- Experimentando ficar em airbnb
+- Experimentando juros compostos
+- Experimentando animes
+- Experimentando bife arabe
+- Experimentando aboboras para hallowen
+- Experimentando melhorar ingles com ebooks
+- Experimentando edicao de videos
+- Experimentando yoga
+- Experimentando formas de descobrir novas musicas
+- Experimentando o feminismo
+- Experimentando viagem internacional com a AIESEC
+- Experimentando podcasts
+- Experimentando Londres
 	- Dia 1 ( London eye e soth bank)
 	- Dia x..
