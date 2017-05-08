@@ -34,6 +34,8 @@ IDEAS FOR VIDEOS
 - Experimentando o feminismo
 - Experimentando viagem internacional com a AIESEC
 - Experimentando podcasts
+- Experimentando alugar um apartamento em Londres
+- Experimentando alugar um apartamento no brasil
 - Experimentando Londres
 	- Dia 1 ( London eye e soth bank)
 	- Dia x..
