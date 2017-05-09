@@ -1,4 +1,36 @@
-IDEAS FOR VIDEOS
+# VIDEOS COM ROTEIRO:
+
+## Bike longas distancias:
+#### Introducao (rapida descricao do que vamos falar
+A gente falando	
+
+#### Porque a gente resolveu fazer 
+A gente falando
+
+#### Qual era nossa experiencia anterior
+A gente falando
+
+#### Como que a gente comprou
+A gente falando mas a imagem eh de lojas online e da evans
+
+#### Como que a gente treinou
+A gente de bike em um parque falando
+
+#### Como foi a viagem
+Videos d viagem
+
+#### Como que a gente se sentiu depois
+A gente falando e videos da viagem
+
+#### O que a gente achou da experiencia
+A gente falando
+
+Animacao de recomendado ou nao
+
+#### Se voce for fazer sozinho 
+A gente falando e animacao com bullet points do que tem que aprender e comprar pra fazer
+
+# IDEAS FOR VIDEOS
 - Experimentando gravar um let's play
 - Experimentando correrida
 - Experimentando correr longas distancias
