@@ -46,3 +46,9 @@ Outros
 10min	Limpar lixo organico
 2 min	colocar lixeiras para fora/dentro
 1 min	Descer sacos lixo
+-
+-
+-
+-
+-
+-
